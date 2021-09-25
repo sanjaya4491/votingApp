@@ -1,0 +1,30 @@
+sixDigitPersonCode; Firstname Lastname; streetadd. city, state, country; email; password; dateTime; descrip; title; voterChoice
+
+123456; Annette Apollinaris; 21 Peninsula Lane. Astoria, NY 11102, USA; jaren90@gmail.com ;pAveNTar; 2021-09-12 12:12:00; idk why the truck;truck; wedid;
+123423; Valeriana Nkauj ; 8 Old Greenview Ave. Sylvania, OH 43560, USA; xhuel@sawayn.net ;UrgENtRE;  2021-09-12 12:13:00; yeee mee peee hee;peet; aproto;
+123123; Phoibe Emrik ; 598 W. Charles Lane. Hastings, MN 55033, USA; gladyce68@yahoo.com ;BleMoLch; 2021-09-12 12:32:00; goat yee soote me;guns; solti;
+122321; Natale Leobwin ; 7401 Coffee Dr. Shelbyville, TN 37160, USA; keegan22@yahoo.com ;ARePtchE; 2021-09-12 12:18:00; leekpa kjeel kjls;leaks; wedid;
+124321; Tatiana Feidlimid ; 245 West Westminster Drive. Sugar Land, TX 77478, USA; vonrueden.lelia@yahoo.com;CEPSIoNe; 2021-09-12 12:26:00; umm i see goats; goat; aproto;
+354634; Virgil Eveliina ; 9541 Cardinal Rd. Westminster, MD 21157, USA; doyle.myrtie@mueller.info;uTrANdRo ; 2021-09-12 12:33:00; perfume isfjke ased; perfume; solti;
+143413; Lara Tacita ; 9537 East Edgewater St. Medina, OH 44256, USA; lue34@yahoo.com ;ncHImeWS ;2021-09-12 12:56:00 ; buttoiuke adfimn ssakl; admin; wedid;
+
+sixDigitPersonCode; Firstname Lastname; streetadd. city, state, country; email; password; voteCount
+
+542344; Thorben Margarida; 44 Ocean St. Sterling, VA 20164, USA; rocky89@yahoo.com ;PriNABLE ;231;
+243524; Rebecca Swanhilde; 542 Dogwood St. Woodhaven, NY 11421, USA; ohara.prince@mayer.com ;idArYPsy ;234;
+231432; Michala Nanna; 91 Wall Street. Fresno, CA 93706, USA; leif.ruecker@price.com ;AtHERlIU ;333;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				

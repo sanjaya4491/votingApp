@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="View.BallotIssue">
+  <grid id="27dc6" binding="BallotIssue" layout-manager="GridLayoutManager" row-count="7" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1318" height="652"/>
+    </constraints>
+    <properties>
+      <background color="-2756632"/>
+      <foreground color="-10137363"/>
+    </properties>
+    <border type="none" title="Ballot Issues">
+      <font size="16"/>
+    </border>
+    <children>
+      <grid id="5d172" layout-manager="GridLayoutManager" row-count="2" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-2296081"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="65f48" class="javax.swing.JCheckBox" binding="yesCheckBox3" default-binding="true">
+            <constraints>
+              <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="Yes"/>
+            </properties>
+          </component>
+          <component id="9aa0a" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="16"/>
+              <foreground color="-16777216"/>
+              <text value="Amendment Proposals"/>
+            </properties>
+          </component>
+          <component id="6dd97" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="16"/>
+              <foreground color="-16777216"/>
+              <text value="Amendment 3: Establish top-two open primary system?"/>
+            </properties>
+          </component>
+          <component id="cff4b" class="javax.swing.JCheckBox" binding="yesCheckBox1" default-binding="true">
+            <constraints>
+              <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="Yes"/>
+            </properties>
+          </component>
+          <component id="b46af" class="javax.swing.JCheckBox" binding="noCheckBox3" default-binding="true">
+            <constraints>
+              <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="No"/>
+            </properties>
+          </component>
+          <component id="78e4f" class="javax.swing.JCheckBox" binding="noCheckBox1" default-binding="true">
+            <constraints>
+              <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="No"/>
+            </properties>
+          </component>
+          <hspacer id="4e9df">
+            <constraints>
+              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+          <hspacer id="9be0b">
+            <constraints>
+              <grid row="0" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+        </children>
+      </grid>
+      <grid id="2863" layout-manager="GridLayoutManager" row-count="2" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-2296081"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="5ab19" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="16"/>
+              <foreground color="-16777216"/>
+              <text value="Limit the interest rate that payday lenders charge to 36 percent per year?"/>
+            </properties>
+          </component>
+          <component id="6ae18" class="javax.swing.JCheckBox" binding="yesCheckBox" default-binding="true">
+            <constraints>
+              <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="43" height="21"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="Yes"/>
+            </properties>
+          </component>
+          <component id="ba551" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="16"/>
+              <foreground color="-16777216"/>
+              <text value="Enact a tax on any games of chance operated at racetracks?"/>
+            </properties>
+          </component>
+          <component id="dfb6d" class="javax.swing.JCheckBox" binding="yesCheckBox4">
+            <constraints>
+              <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="43" height="21"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="Yes"/>
+            </properties>
+          </component>
+          <component id="551f7" class="javax.swing.JCheckBox" binding="noCheckBox5" default-binding="true">
+            <constraints>
+              <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="No"/>
+            </properties>
+          </component>
+          <component id="438c6" class="javax.swing.JCheckBox" binding="noCheckBox" default-binding="true">
+            <constraints>
+              <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2296081"/>
+              <foreground color="-16777216"/>
+              <text value="No"/>
+            </properties>
+          </component>
+          <hspacer id="124d3">
+            <constraints>
+              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+          <hspacer id="6b0b7">
+            <constraints>
+              <grid row="0" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+        </children>
+      </grid>
+      <component id="8088f" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1074"/>
+          <font size="20"/>
+          <foreground color="-10016275"/>
+          <text value="Amendment Proposals"/>
+        </properties>
+      </component>
+      <component id="10609" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1074"/>
+          <font size="20"/>
+          <foreground color="-10016275"/>
+          <text value="Initiatives and Referendums"/>
+        </properties>
+      </component>
+      <component id="4223a" class="javax.swing.JButton" binding="submitButton" default-binding="true">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Submit"/>
+        </properties>
+      </component>
+      <component id="8f247" class="javax.swing.JLabel" binding="ballotIssueText">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="36"/>
+          <foreground color="-16777216"/>
+          <text value="Ballot Issues"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+  <buttonGroups>
+    <group name="yesNoGroup">
+      <member id="438c6"/>
+      <member id="6ae18"/>
+    </group>
+    <group name="yesNoGroup2">
+      <member id="65f48"/>
+      <member id="78e4f"/>
+    </group>
+    <group name="yesNoGroup1">
+      <member id="dfb6d"/>
+      <member id="551f7"/>
+    </group>
+    <group name="yesNoGroup3">
+      <member id="cff4b"/>
+      <member id="b46af"/>
+    </group>
+    <group name="yesNoGroup4">
+      <member id="19c8d"/>
+      <member id="4128f"/>
+    </group>
+  </buttonGroups>
+</form>
